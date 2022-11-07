@@ -13,9 +13,9 @@ using namespace std;
 class Datos{
     public:
     	string oracion;
-        int validar (string);
+        bool validar (string);
 		bool isnumeric(char texto[100]);
-		double TestForDecimal(double Num);
+		bool TestForDecimal(string Num);
     private:
     	
 };
