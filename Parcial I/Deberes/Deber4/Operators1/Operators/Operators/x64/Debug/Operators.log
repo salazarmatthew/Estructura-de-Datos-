@@ -1,0 +1,20 @@
+﻿  Menu.cpp
+C:\Users\Matthew Salazar\Desktop\Operators\Operators\Operators\Operations.h(45,12): warning C4244: 'return': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\Matthew Salazar\Desktop\Operators\Operators\Operators\Operations.h(44): message : al compilar la función del miembro clase plantilla "T Operations<T>::operator &(Data<T> &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Matthew Salazar\Desktop\Operators\Operators\Operators\Menu.cpp(79): message : Vea la referencia a la creación de una instancia de la función plantilla "T Operations<T>::operator &(Data<T> &)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\Matthew Salazar\Desktop\Operators\Operators\Operators\Menu.cpp(60): message : Vea la referencia a la creación de una instancia de clase plantilla "Operations<int>" que se está compilando
+  Operators.cpp
+  Generando código...
+  Operators.vcxproj -> C:\Users\Matthew Salazar\Desktop\Operators\Operators\x64\Debug\Operators.exe
